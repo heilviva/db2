@@ -16,9 +16,7 @@ using System.Windows.Shapes;
 
 namespace db2
 {
-    /// <summary>
-    /// Логика взаимодействия для FirstGrid.xaml
-    /// </summary>
+
     public partial class FirstGrid : Page
     {
         private ITCompanyEntities context = new ITCompanyEntities();
